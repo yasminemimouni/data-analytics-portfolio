@@ -22,3 +22,9 @@ The objective of this project was to provide decision-makers with clear visibili
 
 ## Tools
 Power BI | SQL | Python | Talend | PostgreSQL | Flask
+
+### Dashboards
+
+**Overview & KPIs**  
+High-level dashboard providing visibility into key performance indicators, payment trends, and activity levels to support management decision-making.
+
