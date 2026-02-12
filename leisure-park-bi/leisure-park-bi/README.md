@@ -23,8 +23,9 @@ The objective of this project was to provide decision-makers with clear visibili
 ## Tools
 Power BI | SQL | Python | Talend | PostgreSQL | Flask
 
-### Dashboards
+## Business Impact
+- Enabled management to monitor park performance through real-time KPIs
+- Improved visibility on revenue trends, visitor behavior, and peak periods
+- Supported data-driven decisions for operations and resource planning
 
-**Overview & KPIs**  
-High-level dashboard providing visibility into key performance indicators, payment trends, and activity levels to support management decision-making.
 
