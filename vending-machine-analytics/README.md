@@ -14,12 +14,18 @@ Analyze vending machine sales data to identify consumption patterns, product per
   ## Dashboards Preview
 
 ### Sales & KPI Overview
-![KPI Overview](images/kpi-overview.png)
+![KPI Overview]
 
 ### Payment Methods Analysis
-![Payment Methods](images/payment-methods.png)
+![Payment Methods]
 
 ### Product Performance
-![Product Performance](images/product-performance.png)
+![Product Performance]
+## Business Impact & Recommendations
+- Identified peak sales periods and high-performing products to improve stock planning and reduce shortages
+- Highlighted strong adoption of card and mobile payments, supporting investment in cashless-compatible machines
+- Detected underperforming products and machines to support replacement and optimization decisions
+- Provided actionable insights to improve operational efficiency and customer satisfaction
+
 
 
