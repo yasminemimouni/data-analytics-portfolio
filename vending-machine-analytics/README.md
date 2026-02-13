@@ -11,4 +11,15 @@ Analyze vending machine sales data to identify consumption patterns, product per
 - Product performance: Best- and worst-selling products to optimize assortment
 - Payment method analysis: Cash vs card vs mobile usage to support cashless strategy
 - Category revenue breakdown: Revenue contribution by product category and brand
+  ## Dashboards Preview
+
+### Sales & KPI Overview
+![KPI Overview](images/kpi-overview.png)
+
+### Payment Methods Analysis
+![Payment Methods](images/payment-methods.png)
+
+### Product Performance
+![Product Performance](images/product-performance.png)
+
 
