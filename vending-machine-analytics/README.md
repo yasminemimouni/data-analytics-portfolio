@@ -5,4 +5,10 @@ Analyze vending machine sales data to identify consumption patterns, product per
 ## Data & Tools
 - Data: Monthly vending machine transaction data (January–August), anonymized
 - Tools: Power BI, Excel
+## Key Analyses & KPIs
+- Global performance overview: Total sales, total quantity sold, and average selling price
+- Time-based analysis: Monthly and weekly sales trends to identify peak demand periods
+- Product performance: Best- and worst-selling products to optimize assortment
+- Payment method analysis: Cash vs card vs mobile usage to support cashless strategy
+- Category revenue breakdown: Revenue contribution by product category and brand
 
