@@ -24,4 +24,12 @@ Provides insights into customer payment behavior, top customers by revenue, geog
 ### 5. Human Resources Analytics Dashboard
 Analyzes workforce structure, salary costs, recruitment sources, and employee satisfaction indicators. Includes salary forecasting to support workforce planning and HR decision-making.
 
+## Tools & Technologies
+- Data Integration & ETL: Talend, Python
+- Data Storage & Modeling: Data Warehouse, SQL
+- Data Visualization & BI: Power BI
+- Predictive Analytics & Machine Learning: Python (forecasting models)
+- Deployment & Integration: Flask, Angular
+
+
 
