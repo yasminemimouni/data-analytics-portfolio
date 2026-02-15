@@ -30,6 +30,12 @@ Analyzes workforce structure, salary costs, recruitment sources, and employee sa
 - Data Visualization & BI: Power BI
 - Predictive Analytics & Machine Learning: Python (forecasting models)
 - Deployment & Integration: Flask, Angular
+  ## Business Impact & Value Delivered
+- Delivered a centralized decision-support platform replacing fragmented reporting and manual analysis
+- Improved financial visibility through integrated sales, purchases, VAT, and margin monitoring
+- Enabled proactive decision-making using predictive indicators for purchases, inventory, and salary costs
+- Supported strategic planning across Finance, Sales, Supply Chain, and HR departments
+
 
 
 
